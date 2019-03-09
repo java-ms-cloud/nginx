@@ -1,3 +1,3 @@
 # nginx
 Servidor nginx en azure
-Acceso: http://gincol.francecentral.cloudapp.azure.com/
+Acceso: [Azure nginx in coreOS](http://gincol.francecentral.cloudapp.azure.com/)
